@@ -1,4 +1,9 @@
 hello
 meow
+<<<<<<< Updated upstream
 booboo
 bawbaw
+=======
+moo
+behhh
+>>>>>>> Stashed changes
